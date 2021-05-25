@@ -1,0 +1,17 @@
+{
+  "title": "<Uso-Bitch Senpai>",
+  "description": "<>",
+  "artist": "<Rekomaru Otoi>",
+  "author": "<Rekomaru Otoi>",
+  "cover": "<https://i.imgur.com/8juhfrM.png>",
+  "chapters": {
+    "<1>": {
+      "title": "<Senpai on the Way Home>",
+      "volume": "<1>",
+      "groups": {
+        "<NotGoodSomeSayBad>": "/proxy/api/imgur/chapter/<FFiSqv4>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
