@@ -1,25 +1,25 @@
 {
-  "title": "Uso-Bitch Senpai",
-  "description": "",
-  "artist": "Rekomaru Otoi",
-  "author": "Rekomaru Otoi",
-  "cover": "https://i.imgur.com/8juhfrM.png",
-  "chapters": {
-    "1": {
-      "title": "Senpai on the Way Home",
-      "volume": "1",
-      "groups": {
-        "NotGoodSomeSayBad": "/proxy/api/imgur/chapter/FFiSqv4/"
-      },
-      "last_updated": "1616368746"
-    },
-     "2": {
-      "title": "Senpai & Fuck-Buddies",
-      "volume": "1",
-      "groups": {
-        "NotGoodSomeSayBad": "/proxy/api/imgur/chapter/qY7GKVd/"
-      },
-      "last_updated": "1616368746"
-    }
-  }
+	"title": "Uso_bitch Senpai",
+	"description": "A romcom between a virgin boy and a self-proclaimed slut.",
+	"artist": "Rekomaru Otoi",
+	"author": "Rekomaru Otoi",
+	"cover": "https://i.imgur.com/8juhfrM.png",
+	"chapters": {
+		"1": {
+			"title": "Senpai on the Way Home",
+			"volume": "1",
+			"groups": {
+				"NotGoodSomeSayBad": "/proxy/api/imgur/chapter/FFiSqv4/"
+			},
+			"last_updated": "1617506008"
+		},
+		"2": {
+			"title": "Senpai & Fuck-Buddies",
+			"volume": "1",
+			"groups": {
+				"NotGoodSomeSayBad": "/proxy/api/imgur/chapter/qY7GKVd/"
+			},
+			"last_updated": "1617506008"
+		}
+	}
 }
