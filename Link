@@ -76,6 +76,22 @@
 				"NotGoodSomeSayBad": "/proxy/api/imgur/chapter/dsHgjLs/"
 			},
 			"last_updated": "1617506008"
+		},
+		"10": {
+			"title": "Chinana-Senpai in the Tent Later",
+			"volume": "1",
+			"groups": {
+				"NotGoodSomeSayBad": "/proxy/api/imgur/chapter/l1gUwZv/"
+			},
+			"last_updated": "1624046303"
+		},
+		"10.5": {
+			"title": "Volume 1 Extra - Senpai's Way Home",
+			"volume": "1",
+			"groups": {
+				"NotGoodSomeSayBad": "/proxy/api/imgur/chapter/L6zA6NY/"
+			},
+			"last_updated": "1624046303"
 		}
 	}
 }
