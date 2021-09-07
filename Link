@@ -100,6 +100,14 @@
 				"NotGoodSomeSayBad": "/proxy/api/imgur/chapter/eva0SaD/"
 			},
 			"last_updated": "1624046303"
+		},
+		"12": {
+			"title": "Chinana-Senpai & the Pilgrimage",
+			"volume": "2",
+			"groups": {
+				"NotGoodSomeSayBad": "/proxy/api/imgur/chapter/gvbQyn0/"
+			},
+			"last_updated": "1624046303"
 		}
 	}
 }
