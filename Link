@@ -164,6 +164,22 @@
 				"NotGoodSomeSayBad": "/proxy/api/imgur/chapter/tettXNW/"
 			},
 			"last_updated": "1641087545"
+		},
+		"20": {
+			"title": "Senpai & the Sleepover",
+			"volume": "2",
+			"groups": {
+				"NotGoodSomeSayBad": "/proxy/api/imgur/chapter/A2b0Ab8/"
+			},
+			"last_updated": "1641334579"
+		},
+		"20.5": {
+			"title": "Volume 2 Extras",
+			"volume": "2",
+			"groups": {
+				"NotGoodSomeSayBad": "/proxy/api/imgur/chapter/JqRmZKf/"
+			},
+			"last_updated": "1641334579"
 		}
 	}
 }
